@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufemindemirci" alt="yusufemindemirci" /></a> </p>
 
-- 🔭 I’m currently working on **Duyurubu Project**
+- 🔭 I’m currently working on **Yazilimbu**
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Vue.js | Typescript | Scss | Electron.js**
 
-- 💬 Ask me about **Vue 2&3**
+- 💬 Ask me about **Vue.js | Typescript | Scss | Electron.js**
 
 - 📫 How to reach me **demirciogluyazilim@gmail.com**
 

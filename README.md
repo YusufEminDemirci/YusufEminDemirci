@@ -1,44 +1,80 @@
-<h1 align="center">Hi 👋, I'm Yusuf Emin</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+# 👋 Yusuf Emin DEMİRCİ
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufemindemirci" alt="yusufemindemirci" /></a> </p>
+**Web & Cross-Platform (Flutter)** alanında çalışan,  
+**modern frontend pratiklerine hâkim**, **mimari farkındalığı yüksek** frontend engineer.
 
-- 🔭 I’m currently working on **Yazilimbu**
+Odak noktam:  
+**okunabilir ve ölçeklenebilir kod**, **type-safety**, **performans bilinci** ve  
+**uzun vadede sürdürülebilir UI sistemleri geliştirme**.
 
-- 🌱 I’m currently learning **Vue.js | Typescript | TailwindCSS | Electron.js**
+---
 
-- 💬 Ask me about **Vue.js | Typescript | TailwindCSS | Electron.js**
+## 🧠 Uzmanlık Alanları
 
-- 📫 How to reach me **demirciogluyazilim@gmail.com**
+- 🌐 Modern Web Uygulamaları (React, Next.js, Vue.js, Nuxt.js)
+- 📱 Cross-Platform Mobile & Desktop (Flutter, Electron.js)
+- 🧩 Reusable component & UI pattern tasarımı
+- 🧠 Type-safe data flow & schema validation
+- ⚡ Render, bundle ve runtime performans iyileştirmeleri
+- 🧪 Test edilebilir ve gözlemlenebilir frontend yapıları
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/dmrc_ysf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmrc_ysf" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+## 🛠️ Primary Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufemindemirci&show_icons=true&theme=onedark&locale=en&layout=compact" alt="yusufemindemirci" /></p>
+### 🌐 Web
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufemindemirci&show_icons=true&theme=onedark&locale=en" alt="yusufemindemirci" /></p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron)
+
+### 📱 Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+
+---
+
+## 🧰 Supporting Stack
+
+### 🧠 Core Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🎨 Styling & UI
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass)
+
+### 🧩 Validation & Data Safety
+
+![Zod](https://img.shields.io/badge/Zod-Type%20Safe-3E67B1?style=for-the-badge)
+![Yup](https://img.shields.io/badge/Yup-Schema-4B32C3?style=for-the-badge)
+
+### 🧪 Testing & Observability
+
+![Jest](https://img.shields.io/badge/Jest-Unit%20Tests-C21325?style=for-the-badge)
+
+---
+
+## 🧱 Mühendislik Yaklaşımım
+
+- **Architecture-aware development**: Kodun nereye ait olduğunu bilerek geliştirme
+- **Type-first thinking**: Veri akışını type’larla güvence altına alma
+- **Separation of concerns**: UI, state ve domain sorumluluklarını ayırma
+- **Performance awareness**: Render ve bundle maliyetlerini göz önünde bulundurma
+- **DX odaklılık**: Okunabilirlik ve sürdürülebilirliği önceliklendirme
+
+---
+
+## 🤝 İletişim
+
+- 💼 LinkedIn: https://www.linkedin.com/in/yusuf-emin-demirci/
+- 📫 Mail: demirciogluyazilim@gmail.com
+
+---
+
+> _“Good UI scales when architecture and consistency come first.”_
